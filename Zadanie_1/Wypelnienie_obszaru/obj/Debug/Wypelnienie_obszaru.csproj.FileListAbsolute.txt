@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\bin\Debug\Wypelnienie_obszaru.exe.config
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\bin\Debug\Wypelnienie_obszaru.exe
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\bin\Debug\Wypelnienie_obszaru.pdb
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.Form1.resources
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.Properties.Resources.resources
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.exe
+C:\Users\pawel\source\repos\Wypelnienie_obszaru\Wypelnienie_obszaru\obj\Debug\Wypelnienie_obszaru.pdb
