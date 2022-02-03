@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\bin\Debug\Wykres_funkcji.exe.config
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\bin\Debug\Wykres_funkcji.exe
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\bin\Debug\Wykres_funkcji.pdb
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.Form1.resources
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.Properties.Resources.resources
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.exe
+C:\Users\pawel\source\repos\Wykres_funkcji\Wykres_funkcji\obj\Debug\Wykres_funkcji.pdb
