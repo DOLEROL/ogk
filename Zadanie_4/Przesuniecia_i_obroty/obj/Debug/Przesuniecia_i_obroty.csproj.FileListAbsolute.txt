@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\bin\Debug\Przesuniecia_i_obroty.exe.config
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\bin\Debug\Przesuniecia_i_obroty.exe
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\bin\Debug\Przesuniecia_i_obroty.pdb
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.Form1.resources
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.Properties.Resources.resources
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.exe
+C:\Users\pawel\source\repos\Przesuniecia_i_obroty\Przesuniecia_i_obroty\obj\Debug\Przesuniecia_i_obroty.pdb
