@@ -1,5 +1,4 @@
-# OGK
-Paweł Lipski 185IC A2
+# OGK - Paweł Lipski 185IC A2 21716
 
 ### Zadanie 1: Wypełnienie obszaru
 ### Zadanie 2: Zamiana RGB na CMY i szary
