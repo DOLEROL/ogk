@@ -5,6 +5,5 @@
 ### Zadanie 3: Wypróbowanie wybranych algorytmów rysowania odcinków i okręgów
 ### Zadanie 4: Przesunięcia i obroty
 ### Zadanie 5: Wykres funkcji
-
-### Zadanie 6: Proste operacje z pomocą OpenGl ( w trakcie )
-### Zadanie 7: Zadanie indywidualne ( w trakcie )
+### Zadanie 6: Proste operacje z pomocą OpenGl
+### Zadanie 7: Zadanie indywidualne / Fraktale w OpenTK
