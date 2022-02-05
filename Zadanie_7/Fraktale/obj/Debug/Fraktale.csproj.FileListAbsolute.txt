@@ -1,0 +1,11 @@
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\Fraktale.exe.config
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\Fraktale.exe
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\Fraktale.pdb
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\OpenTK.dll
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\OpenTK.pdb
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\bin\Debug\OpenTK.xml
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\obj\Debug\Fraktale.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\obj\Debug\Fraktale.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\obj\Debug\Fraktale.csproj.CopyComplete
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\obj\Debug\Fraktale.exe
+C:\Users\pawel\source\repos\ogk\Fraktale\Fraktale\obj\Debug\Fraktale.pdb
