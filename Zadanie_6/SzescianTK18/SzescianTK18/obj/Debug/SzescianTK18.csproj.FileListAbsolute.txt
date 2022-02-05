@@ -1,0 +1,35 @@
+H:\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe.config
+H:\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csprojResolveAssemblyReference.cache
+H:\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe
+H:\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.pdb
+H:\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.dll
+H:\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.xml
+H:\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.exe
+H:\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.pdb
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe.config
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.exe
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.pdb
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.pdb
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.dll
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.xml
+E:\Grafika15\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csprojResolveAssemblyReference.cache
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe.config
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.pdb
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.dll
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.xml
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csproj.AssemblyReference.cache
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csproj.CoreCompileInputs.cache
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csproj.CopyComplete
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.exe
+C:\Users\masiejczyk\OneDrive - Akademia Marynarki Wojennej\Pulpit\Grafika21_22\OpTkPrzykl\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.pdb
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe.config
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.exe
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\bin\Debug\SzescianTK18.pdb
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.dll
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\bin\Debug\OpenTK.xml
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.exe
+C:\Users\pawel\source\repos\ogk\Zadanie_6\SzescianTK18\SzescianTK18\obj\Debug\SzescianTK18.pdb
